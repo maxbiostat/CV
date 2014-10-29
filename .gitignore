@@ -10,3 +10,6 @@ coverLetter.pdf
 application_*
 *~ 
 *.gz
+*.backup
+*.new
+
