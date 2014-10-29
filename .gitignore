@@ -1,0 +1,12 @@
+*.log
+*.bbl
+*.blg
+*.aux
+*.sty
+*kate-swp
+*cover_letter*
+cv_LMFCarvalho_short*
+coverLetter.pdf
+application_*
+*~ 
+*.gz
