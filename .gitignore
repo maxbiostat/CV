@@ -1,3 +1,5 @@
+*.pdf
+*.out
 *.log
 *.bbl
 *.blg
